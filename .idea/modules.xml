@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Folha de Pagamento/Folha de Pagamento.iml" filepath="$PROJECT_DIR$/Folha de Pagamento/Folha de Pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Relacionamento/Hospital/Hospital.iml" filepath="$PROJECT_DIR$/Herança e Relacionamento/Hospital/Hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nota-de-Aula-Java-1.iml" filepath="$PROJECT_DIR$/.idea/Nota-de-Aula-Java-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plataforma de Streaming/Plataforma de Streaming.iml" filepath="$PROJECT_DIR$/Plataforma de Streaming/Plataforma de Streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema Bancário/Sistema Bancário.iml" filepath="$PROJECT_DIR$/Sistema Bancário/Sistema Bancário.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Relacionamento/Sistema de Vendas/Sistema de Vendas.iml" filepath="$PROJECT_DIR$/Herança e Relacionamento/Sistema de Vendas/Sistema de Vendas.iml" />
+    </modules>
+  </component>
+</project>
